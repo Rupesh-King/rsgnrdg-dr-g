@@ -15,13 +15,13 @@ var player1score =0;
 var player2score =0;
 
 function preload(){
-  back_img = loadImage("jungle.jpg");
-  player_img = loadImage("basket2.png");
-  fruit1_img = loadImage("apple2.png");
-  fruit2_img = loadImage("banana2.png");
-  fruit3_img = loadImage("melon2.png");
-  fruit4_img = loadImage("orange2.png");
-  fruit5_img = loadImage("pineapple2.png");
+  back_img = loadImage("New folder/jungle.jpg");
+  player_img = loadImage("New folder/basket2.png");
+  fruit1_img = loadImage("New folder/apple2.png");
+  fruit2_img = loadImage("New folder/banana2.png");
+  fruit3_img = loadImage("New folder/melon2.png");
+  fruit4_img = loadImage("New folder/orange2.png");
+  fruit5_img = loadImage("New folder/pineapple2.png");
   fruitGroup = new Group();
 }
 function setup() {
